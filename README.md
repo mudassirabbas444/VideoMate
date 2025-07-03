@@ -71,13 +71,13 @@ videomate/
 
 
 #Images
-![App Screenshot](image1.png)
-![App Screenshot](image2.png)
-![App Screenshot](image3.png)
-![App Screenshot](image4.png)
-![App Screenshot](image5.png)
-![App Screenshot](image6.png)
-![App Screenshot](image7.png)
+![App Screenshot](assets/image1.png)
+![App Screenshot](assets/image2.png)
+![App Screenshot](assets/image3.png)
+![App Screenshot](assets/image4.png)
+![App Screenshot](assets/image5.png)
+![App Screenshot](assets/image6.png)
+![App Screenshot](assets/image7.png)
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
